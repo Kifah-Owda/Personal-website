@@ -1,0 +1,24 @@
+
+
+body{
+  background-color: #EDF6E5;
+}
+hr{
+  border-style: dotted none none;
+  border-color: lightgray;
+  border-width: 10px;
+  width: 5%
+}
+
+h1{
+  color: #B5EAEA;
+  line-height: 2.5;
+  letter-spacing: 3px;
+
+
+}
+
+h3{
+  color: #B5EAEA;
+  text-decoration: underline;
+}
